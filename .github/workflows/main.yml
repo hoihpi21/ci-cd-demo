@@ -2,5 +2,5 @@ name: Simple Python CI
 on: [push]
 
 jobs:
-build:
-runs-on: ubuntu-latest
+  build:
+    runs-on: ubuntu-latest
